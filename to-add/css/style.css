@@ -31,15 +31,10 @@
 			height: 600px; 
 			background-image: url(img/cloud-background.jpg);
 			background-position: 0px 0px;
-			background-size: 115%;;
-			/*background: no-repeat center;*/
-		/*	-webkit-background-size: cover;
-      	 -moz-background-size: cover;
-  		     -o-background-size: cover;
-  				    background-size: cover;*/
-
-			animation: animatedBackground 20s linear infinite;
-			-ms-animation: animatedBackground 20s linear infinite;
-			-moz-animation: animatedBackground 20s linear infinite;
-			-webkit-animation: animatedBackground 20s linear infinite;
+			background-size: 108%;;
+			overflow: hidden;
+			animation: animatedBackground 17s linear infinite;
+			-ms-animation: animatedBackground 17s linear infinite;
+			-moz-animation: animatedBackground 17s linear infinite;
+			-webkit-animation: animatedBackground 17s linear infinite;
 		}
